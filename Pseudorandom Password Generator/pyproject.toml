@@ -1,0 +1,10 @@
+[project]
+name = "pseudorandomPasswordGenerator"
+version = "1.0.0"
+description = "Псевдослучайный генератор паролей."
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
+authors = [
+    {name = "lynixyzz", email = "6menti.main@gmail.com"}
+]
