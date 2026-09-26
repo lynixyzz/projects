@@ -1,0 +1,10 @@
+[project]
+name = "caesarCipher"
+version = "1.0.0"
+description = "Использование шифра Цезаря."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+authors = [
+    {name = "lynixyzz", email = "6menti.main@gmail.com"}
+]
